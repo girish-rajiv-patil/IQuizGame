@@ -1,6 +1,6 @@
 
 
- <b><h3>Simple Air Plane War Cocos2dx Game </h3> </b>
+ <b><h3>IQ Quiz Cocos2dx Game </h3> </b>
 
 This is a Simple my task I was completed.
 
